@@ -27,8 +27,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "302fc56c-c662-44ce-9db2-dc4ea262c10b"
+        "projectId": "0394a999-ad3e-49be-9753-c24bdb36adaa"
       }
-    }
+    },
+    "owner": "fjanazi"
   }
 }
